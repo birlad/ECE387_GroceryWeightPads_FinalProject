@@ -1,1 +1,2 @@
 # ECE387_GroceryWeightPads_FinalProject
+  For this final group project, we have designed and built a prototype of weight pads. The purpose of this project is to be able to weight food and let the user be notified by using a bluetooth chip that is connected to the phone with Blexar app. Sending notification to the user if the amount of food has dropped to less than of the half. For example, if the milk has dropped to less than 50%, the user will be sent a notification that asked the user to buy or a warning to buy new gallon of milk. 
